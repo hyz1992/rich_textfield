@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'dart:io';
 import 'package:real_rich_text/real_rich_text.dart' as real_rich_text;
-import '../info.dart';
+import 'package:rich_textfield/rich_textfield.dart';
 
 ///包含@某人、#话题#、以及emoji的富文本显示
 class MyRichText extends StatefulWidget{

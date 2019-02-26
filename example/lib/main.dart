@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 // import 'src/my_rich.dart';
 import 'package:rich_textfield/rich_textfield.dart';
 import 'package:flutter/rendering.dart';
+import 'my_rich_text.dart';
 void main(){
   SystemChrome.setEnabledSystemUIOverlays([]);
   ErrorWidget.builder = (FlutterErrorDetails detial){
