@@ -1,8 +1,8 @@
 name: rich_textfield
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: A Rich EditText package for flutter.
+version: 1.0.0
+author: huang yu zhao <1451784145@qq.com>
+homepage: https://github.com/hyz1992/rich_textfield.git
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
